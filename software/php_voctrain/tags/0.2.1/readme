@@ -1,0 +1,45 @@
+
+   php_voctrain - A Gtk based vocabulary trainer
+                  written by Frank Thomas <frank@thomas-alfeld.de>
+
+   
+   Installation:
+   -------------
+   
+   Just unpack the tarball somewhere on your harddrive und start
+   the php_voctrain program with:
+   
+      ~$ ./vt-0.2.1
+   
+   The Gtk extension for Python (pygtk) is needed to run version 0.2.1
+   of php_voctrain. Also the xml, glade and python-gnome package. 
+   
+ 
+   About php_voctrain:
+   -------------------
+   
+   php_voctrain is a very simple vocabulary trainer using xml files as
+   vocabulary database, so that users can easily write their own files.
+   The programm is able to load diefferent xml files than the
+   "latin.pvtml" as long as it uses the same DTD. It also can handle
+   kvtml documents used by kvoctrain. You only have to add the language
+   tag to the native kvoctrain files. For more information see
+   voctrain.dtd.
+   
+   I would be very pleased if you send me your self-written xml files, so
+   that I can distribute it in the original archive.
+   
+   If you are searching a more comfortable trainer you should visit
+   http://kvoctrain.sourceforge.net 
+       
+   Have fun!
+
+
+   Contributors:
+   -------------
+   BankHacker - wrote the english_espanol.pvtml
+   chicco - made the smileys
+   
+   Thanks for your help!
+   
+      

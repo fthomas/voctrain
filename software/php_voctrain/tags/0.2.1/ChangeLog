@@ -1,0 +1,135 @@
+2002-11-09 19:45  mrfrost
+
+	* voctrain.dtd, vt-0.2.1.py: [no log message]
+
+2002-07-20 15:39  mrfrost
+
+	* voctrain.dtd: changed dtd
+
+2002-07-20 15:35  mrfrost
+
+	* .cvsignore, latin.pvtml, voctrain.glade, vt-0.2.1.py,
+	pvtml/alphabet_codes.pvtml, pvtml/english_espanol.pvtml,
+	pvtml/hitchhiker_series.pvtml, pvtml/latin.pvtml,
+	pvtml/latin.utf-8.pvtml: moved pvtml documents
+
+2002-07-20 15:26  mrfrost
+
+	* ChangeLog, latin.pvtml, voctrain.glade, vt-0.2.0.php,
+	vt-0.2.0.py, vt-0.2.1.php, vt-0.2.1.py: renamed some files
+
+2002-03-11 15:16  mrfrost
+
+	* pixmaps/: ok.xpm, wrong.xpm: new pixmaps
+
+2002-03-11 15:16  mrfrost
+
+	* latin.pvtml, voctrain.glade, vt-0.2.0.py: finished work
+
+2002-03-07 10:17  mrfrost
+
+	* .cvsignore, pvt2pvtml.xsl, voctrain.glade, vt-0.2.0.py,
+	0.1.0/english_espanol.xml: added pvt2pvtml stylesheet
+
+2002-02-01 00:26  mrfrost
+
+	* ChangeLog, latin.pvtml, voctrain.dtd, voctrain.glade,
+	vt-0.2.0.py, 0.1.0/README, 0.1.0/english_espanol.xml: [no log
+	message]
+
+2001-12-22 11:54  mrfrost
+
+	* latin.pvtml, voctrain.dtd, voctrain.glade, vt-0.2.0.py: wrote
+	parts of the xml backend
+
+2001-12-15 14:28  mrfrost
+
+	* ChangeLog, latin.pvtml, vt-0.2.0.py, 0.1.0/README,
+	0.1.0/latin.xml, 0.1.0/vt-0.1.0.php: [no log message]
+
+2001-12-14 20:03  mrfrost
+
+	* README, latin.pvtml, latin.xml, voctrain.dtd, voctrain.glade,
+	vt-0.1.0.php, vt-0.2.0.php, vt-0.2.0.py: moved the 0.1.0 to its own
+	directory
+
+2001-11-30 20:04  mrfrost
+
+	* voctrain.dtd: [no log message]
+
+2001-11-30 20:03  mrfrost
+
+	* ChangeLog, latin.pvtml, latin.xml, voctrain.dtd, voctrain.glade,
+	vt-0.2.0.php, vt-0.2.0.py: write the dtd - improved the gui
+
+2001-11-30 11:56  mrfrost
+
+	* ChangeLog, voctrain.glade, vt-0.1.0.php, vt-0.2.0.php,
+	vt-0.2.0.py: the GtkPixmapMenuItem widget is now used.
+
+2001-11-17 09:40  mrfrost
+
+	* ChangeLog, voctrain.glade, vt-0.2.0.php, vt-0.2.0.py: improved
+	giu
+
+2001-11-17 02:03  mrfrost
+
+	* voctrain.glade, vt-0.2.0.php, vt-0.2.0.py: add some widget to the
+	gui
+
+2001-11-15 11:19  mrfrost
+
+	* ChangeLog, voctrain.glade, vt-0.2.0.php, vt-0.2.0.py: add code to
+	the 0.2.0 php code
+
+2001-11-14 19:11  mrfrost
+
+	* voctrain.glade, vt-0.2.0.py: worked on the gui
+
+2001-11-13 19:56  mrfrost
+
+	* voctrain.glade, vt-0.2.0.py: [no log message]
+
+2001-11-11 18:47  mrfrost
+
+	* vt-0.2.0.php, vt-0.2.0.py: [no log message]
+
+2001-11-11 09:15  mrfrost
+
+	* voctrain.glade, voctrain.php, voctrain.py, vt-0.1.0.php,
+	vt-0.2.0.php, vt-0.2.0.py: [no log message]
+
+2001-11-10 18:02  mrfrost
+
+	* voctrain.glade, voctrain.py: [no log message]
+
+2001-11-10 17:36  mrfrost
+
+	* ChangeLog, voctrain.py: [no log message]
+
+2001-10-30 15:33  mrfrost
+
+	* .cvsignore, voctrain.glade, voctrain.py: learned something about
+	python! :)
+
+2001-10-29 19:23  mrfrost
+
+	* COPYING, ChangeLog, voctrain.php, voctrain.py, .cvsignore: [no
+	log message]
+
+2001-10-29 19:15  mrfrost
+
+	* CHANGELOG.txt, COPYING, ChangeLog, GPL.txt, README, README.txt,
+	latin.xml, php_voctrain.php, pvt_latein.xml, voctrain.glade,
+	voctrain.php, voctrain.py: renamed some files
+
+2001-10-16 15:47  mrfrost
+
+	* CHANGELOG.txt, GPL.txt, README.txt, php_voctrain.php,
+	pvt_latein.xml: Initial revision
+
+2001-10-16 15:47  mrfrost
+
+	* CHANGELOG.txt, GPL.txt, README.txt, php_voctrain.php,
+	pvt_latein.xml: moved php_voctrain files to CVS   
+

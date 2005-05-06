@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+$Id: voctrain.dtd,v 1.7 2002/11/09 18:45:46 mrfrost Exp $
+
+Die pvtml Dokumenttypdefinition ist sehr stark an die kvtml DTD
+angelehnt. Alle kvtml Dokumente können nach Erweiterung mit dem
+languages-Tag von php_voctrain benutzt werden. Weitere
+Informationen zu kvtml sind unter dieser Adresse zu finden:
+    http://kvoctrain.sourceforge.net/ 
+
+kvoctrain and kvtml are written by
+Ewald Arnold <kvoctrain@ewald-arnold.de>
+-->
+
+<!ELEMENT pvtml (languages, lesson, e*)>
+<!ATTLIST pvtml title  CDATA #REQUIRED
+                author CDATA #REQUIRED>
+	  
+  <!ELEMENT languages (o,t)>
+  
+  <!ELEMENT lesson (desc*)>
+    <!ELEMENT desc (#PCDATA)>
+    <!ATTLIST desc no CDATA #REQUIRED
+                   inc CDATA #IMPLIED>
+
+  <!ELEMENT e (o, t)>
+  <!ATTLIST e m CDATA #REQUIRED>
+    <!ELEMENT o (#PCDATA)>
+    <!ELEMENT t (#PCDATA)>

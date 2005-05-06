@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!--
+THIS DTD IS OBSOLETE! DO NOT USE IT.
+It is only used by version 0.1.0 of php_voctrain.
+-->
+
+<!DOCTYPE pvt [
+   <!ELEMENT pvt      (language, chapter)>
+   <!ELEMENT language (EMPTY)            >
+   <!ELEMENT chapter  (voc*)             >
+   <!ELEMENT voc      (EMPTY)            >
+]>
+
+<pvt>
+ <language first="Latein" second="Deutsch"/>
+
+<chapter name="All"></chapter>
+
+<chapter name="Cic. de fin. V,23 P. 65-66">
+
+  <voc no="1" first="caritas"  second="Wertschätzung, Liebe"/>
+  <voc no="2" first="diligere" second="hoch achten"/>
+  <voc no="3" first="foras"    second="hinaus"/>
+  <voc no="4" first="sensim"   second="langsam"/>
+  <voc no="5" first="cognatio" second="Blutsverwandtschaft"/>
+
+</chapter>
+
+<chapter name="Sen. de .benef. III, XXVIII, 1-3">
+
+  <voc no="1" first="beneficium" second="Wohltat"/>
+  <voc no="2" first="aptius"     second="geeigneter"/>
+  <voc no="3" first="stemmatum"  second="Kranz"/>
+  <voc no="4" first="flexura"    second="Biegung"/>
+  <voc no="5" first="decipere"   second="hintergehen, betrügen, blenden"/>
+
+</chapter>
+
+<chapter name="Tacitus, ab excessu divi Augusti liber primus">
+
+  <voc no="1"  first="instituere"      second="einsetzen"/>
+  <voc no="2"  first="decem viralis"   second="zehn Mann"/>
+  <voc no="3"  first="cedere"          second="übergehen"/>
+  <voc no="4"  first="fessus"          second="ermüdet"/>
+  <voc no="5"  first="Urbs Roma"       second="Rom"/>
+  <voc no="6"  first="rex"             second="König"/>
+  <voc no="7"  first="libertas"        second="Freiheit"/>
+  <voc no="8"  first="consulatus, us"  second="Konsulat"/>
+  <voc no="9"  first="dictatura"       second="Diktatur"/>
+  <voc no="10" first="potestas"        second="Macht"/>
+  <voc no="11" first="milites tribuni" second="Militärtribun"/>
+  <voc no="12" first="ius consulare"   second="Konsularrecht"/>
+  <voc no="13" first="dominatio"       second="Gewaltherrschaft"/>
+  <voc no="14" first="potentia"        second="Macht"/>
+  <voc no="15" first="sumere"          second="nehmen, verwenden, anführen"/>
+  <voc no="16" first="valuit"          second="stark sein, Einfluss haben"/>
+  <voc no="17" first="biennium"        second="über 2 Jahre"/>
+
+</chapter>
+
+</pvt>
