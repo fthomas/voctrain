@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE pvtml SYSTEM "voctrain.dtd">
+
+<pvtml title="The Complete Hitchhiker Series"
+       author="Frank Thomas">
+
+  <languages>
+    <o>English</o>
+    <t>Deutsch</t>
+  </languages>
+    
+  <lesson>
+    <desc no="1">Introduction: A Guide to the Guide</desc>
+  </lesson>
+
+  <e m="1"> <o>remark</o> <t>Anmerkung</t> </e>
+  <e m="1"> <o>contradict</o> <t>widersprechen</t> </e>
+  <e m="1"> <o>misquote</o> <t>falsch zitieren</t> </e>
+  <e m="1"> <o>firmly</o> <t>fest</t> </e>
+  <e m="1"> <o>crook</o> <t>krümmen</t> </e>
+  <e m="1"> <o>cropped</o> <t>abgeschnitten</t> </e>
+  <e m="1"> <o>stiff</o> <t>steif</t> </e>
+  <e m="1"> <o></o> <t></t> </e>
+  <e m="1"> <o></o> <t></t> </e>
+  <e m="1"> <o></o> <t></t> </e>
+  <e m="1"> <o></o> <t></t> </e>
+
+</pvtml>

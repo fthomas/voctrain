@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE pvtml SYSTEM "voctrain.dtd">
+<!--
+$Id: latin.pvtml,v 1.1 2002/07/20 13:35:48 mrfrost Exp $
+-->
+ 
+<pvtml title="latin voctrain file"
+       author="Frank Thomas">
+
+  <languages>
+    <o>Latein</o>
+    <t>Deutsch</t>
+  </languages>
+    
+  <lesson>
+    <desc no="1">Cicero de fin. V,23 P. 65-66</desc>
+    <desc no="2">Seneca de benef. III, XXVIII, 1-3</desc>
+    <desc no="3">Tacitus, ab excessu divi Augusti liber primus</desc>
+    <desc no="4">OSTIA II Vocabularium XXI</desc>
+    <desc no="5">OSTIA II Vocabularium XXXI</desc>
+  </lesson>
+
+  <e m="1"> <o>caritas</o> <t>Wertschätzung</t> </e>
+  <e m="1"> <o>diligere</o> <t>hoch achten</t> </e>
+  <e m="1"> <o>foras</o> <t>hinaus</t> </e>
+  <e m="1"> <o>sensim</o> <t>langsam</t> </e>
+  <e m="1"> <o>cognatio</o> <t>Blutsverwandtschaft</t> </e>
+  
+  <e m="2"> <o>beneficium</o> <t>Wohltat</t> </e>
+  <e m="2"> <o>aptius</o> <t>geeigneter</t> </e>
+  <e m="2"> <o>stemmatum</o> <t>Kranz</t> </e>
+  <e m="2"> <o>flexura</o> <t>Biegung</t> </e>
+
+  <e m="3"> <o>instituere</o> <t>einsetzen</t> </e>
+  <e m="3"> <o>fessus</o> <t>ermüdet</t> </e>
+  <e m="3"> <o>dominatio</o> <t>Gewaltherrschaft</t> </e>
+
+  <e m="4"> <o>mandatum</o> <t>Auftrag</t> </e>
+  <e m="4"> <o>iuventus</o> <t>Jugend</t> </e>
+  <e m="4"> <o>regnare</o> <t>herrschen</t> </e>
+  <e m="4"> <o>specus</o> <t>Höhle</t> </e>
+  <e m="4"> <o>sors</o> <t>Schicksal</t> </e>
+  <e m="4"> <o>osculum</o> <t>Kuss</t> </e>
+  <e m="4"> <o>deliberare</o> <t>überlegen</t> </e>
+  <e m="4"> <o>enuntiare</o> <t>verraten</t> </e>
+  <e m="4"> <o>condicio</o> <t>Bedingung</t> </e>
+  <e m="4"> <o>dolus</o> <t>Betrug</t> </e>
+  <e m="4"> <o>ops</o> <t>Macht</t> </e>
+  <e m="4"> <o>perfuga</o> <t>Überläufer</t> </e>
+  <e m="4"> <o>scriba</o> <t>Schreiber</t> </e>
+  <e m="4"> <o>arcanum</o> <t>Geheimnis</t> </e>
+  <e m="4"> <o>orbis</o> <t>Kreis</t> </e>
+  <e m="4"> <o>geminus</o> <t>Zwilling</t> </e>
+  <e m="4"> <o>fama</o> <t>Gerücht</t> </e>
+  <e m="4"> <o>astrum</o> <t>Gestirn</t> </e>
+  <e m="4"> <o>saeculum</o> <t>Zeitalter</t> </e>
+  <e m="4"> <o>aureus</o> <t>golden</t> </e>
+  <e m="4"> <o>vindicare</o> <t>beanspruchen</t> </e>
+  <e m="4"> <o>mox</o> <t>bald</t> </e>
+  <e m="4"> <o>admittere</o> <t>zulassen</t> </e>
+  <e m="4"> <o>canis</o> <t>Hund</t> </e>
+  <e m="4"> <o>moenia</o> <t>Stadtmauer</t> </e>
+
+  <e m="5"> <o>obtinere</o> <t>behaupten</t> </e>
+  <e m="5"> <o>communis</o> <t>gewöhnlich</t> </e>
+  <e m="5"> <o>immeritus</o> <t>unverdient</t> </e>
+  <e m="5"> <o>moderatus</o> <t>gemäßigt</t> </e>
+  <e m="5"> <o>cunctari</o> <t>zögern</t> </e>
+  <e m="5"> <o>legatio</o> <t>Gesandtschaft</t> </e>
+  <e m="5"> <o>venia</o> <t>Gnade</t> </e>
+  <e m="5"> <o>excusare</o> <t>entschuldigen</t> </e>
+  <e m="5"> <o>conari</o> <t>versuchen</t> </e>
+  <e m="5"> <o>mori</o> <t>sterben</t> </e>
+  <e m="5"> <o>eligere</o> <t>auswählen</t> </e>
+  <e m="5"> <o>ordo</o> <t>Stand</t> </e>
+  <e m="5"> <o>hostia</o> <t>Opfertier</t> </e>
+  <e m="5"> <o>cottidianus</o> <t>täglich</t> </e>
+  <e m="5"> <o>exprimere</o> <t>ausdrücken</t> </e>
+  <e m="5"> <o>asparagus</o> <t>Spargel</t> </e>
+  <e m="5"> <o>coquere</o> <t>kochen</t> </e>
+  <e m="5"> <o>olus</o> <t>Gemüse</t> </e>
+  <e m="5"> <o>percoquere</o> <t>gar kochen</t> </e>
+  <e m="5"> <o>exornare</o> <t>ausschmücken</t> </e>
+  <e m="5"> <o>maiestas</o> <t>Würde</t> </e>
+  <e m="5"> <o>latericius</o> <t>aus Ziegeln</t> </e>
+  <e m="5"> <o>marmoreus</o> <t>aus Marmor</t> </e>
+  <e m="5"> <o>prodigium</o> <t>Vorzeichen</t> </e>
+  <e m="5"> <o>praedicere</o> <t>vorhersagen</t> </e>
+  <e m="5"> <o>aquila</o> <t>Adler</t> </e>
+  <e m="5"> <o>fulgor</o> <t>Blitz</t> </e>
+  <e m="5"> <o>splendere</o> <t>glänzen</t> </e>
+  <e m="5"> <o>solere</o> <t>pflegen</t> </e>
+  <e m="5"> <o>arduus</o> <t>steil</t> </e>
+  <e m="5"> <o>dubius</o> <t>bedenklich</t> </e>
+  <e m="5"> <o>exigere</o> <t>herausholen</t> </e>
+  <e m="5"> <o>flectere</o> <t>biegen</t> </e>
+  <e m="5"> <o>quies</o> <t>Ruhe</t> </e>
+  <e m="5"> <o>cupidus</o> <t>begierig auf</t> </e>
+  <e m="5"> <o>puls</o> <t>Brei</t> </e>
+  <e m="5"> <o>suspensus</o> <t>schwebend</t> </e>
+  <e m="5"> <o>protrahere</o> <t>zwingen</t> </e>
+  <e m="5"> <o>columella</o> <t>Pfosten</t> </e>
+  <e m="5"> <o>velare</o> <t>verhüllen</t> </e>
+  <e m="5"> <o>momentum</o> <t>bewegende Kraft</t> </e>
+  <e m="5"> <o>stupor</o> <t>Erstarrung</t> </e>
+  <e m="5"> <o>haerere</o> <t>verweilen</t> </e>
+  <e m="5"> <o>lectus</o> <t>Bett</t> </e>
+  <e m="5"> <o>fax</o> <t>Fackel</t> </e>
+  <e m="5"> <o>haruspex</o> <t>Seher</t> </e>
+  <e m="5"> <o>arcessere</o> <t>herbeirufen</t> </e>
+  <e m="5"> <o>vitare</o> <t>meiden</t> </e>
+  <e m="5"> <o>oblivisci</o> <t>vergessen</t> </e>
+  <e m="5"> <o>lorica</o> <t>Brustpanzer</t> </e>
+  <e m="5"> <o>scutum</o> <t>Langschild</t> </e>
+  <e m="5"> <o>agmen primum</o> <t>Vorhut</t> </e>
+  <e m="5"> <o>ardens</o> <t>brennend</t> </e>
+
+</pvtml>

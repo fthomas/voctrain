@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE pvtml SYSTEM "voctrain.dtd">
+<!--
+$Id: alphabet_codes.pvtml,v 1.1 2002/07/20 13:35:48 mrfrost Exp $
+-->
+ 
+<pvtml title="Nato-Alphabet / Morse Codes"
+       author="Frank Thomas">
+
+  <languages>
+    <o>unkodiert</o>
+    <t>kodiert</t>
+  </languages>
+    
+  <lesson>
+    <desc no="1">Nato-Alphabet</desc>
+    <desc no="2" inc="3,4,5">Morse Code</desc>
+    <desc no="3"> - Alphabet</desc>
+    <desc no="4"> - Numbers</desc>
+    <desc no="5"> - Punctuation Marks</desc>
+  </lesson>
+
+  <e m="1"> <o>A</o> <t>Alpha</t> </e>
+  <e m="1"> <o>B</o> <t>Bravo</t> </e>
+  <e m="1"> <o>C</o> <t>Charlie</t> </e>
+  <e m="1"> <o>D</o> <t>Delta</t> </e>
+  <e m="1"> <o>E</o> <t>Echo</t> </e>
+  <e m="1"> <o>F</o> <t>Foxtrott</t> </e>
+  <e m="1"> <o>G</o> <t>Golf</t> </e>
+  <e m="1"> <o>H</o> <t>Hotel</t> </e>
+  <e m="1"> <o>I</o> <t>India</t> </e>
+  <e m="1"> <o>J</o> <t>Juliette</t> </e>
+  <e m="1"> <o>K</o> <t>Kilo</t> </e>
+  <e m="1"> <o>L</o> <t>Lima</t> </e>
+  <e m="1"> <o>M</o> <t>Mike</t> </e>
+  <e m="1"> <o>N</o> <t>November</t> </e>
+  <e m="1"> <o>O</o> <t>Oscar</t> </e>
+  <e m="1"> <o>P</o> <t>Papa</t> </e>
+  <e m="1"> <o>Q</o> <t>Quebec</t> </e>
+  <e m="1"> <o>R</o> <t>Romeo</t> </e>
+  <e m="1"> <o>S</o> <t>Sierra</t> </e>
+  <e m="1"> <o>T</o> <t>Tango</t> </e>
+  <e m="1"> <o>U</o> <t>Uniform</t> </e>
+  <e m="1"> <o>V</o> <t>Victor</t> </e>
+  <e m="1"> <o>W</o> <t>Whisky</t> </e>
+  <e m="1"> <o>X</o> <t>X-Ray</t> </e>
+  <e m="1"> <o>Y</o> <t>Yankee</t> </e>
+  <e m="1"> <o>Z</o> <t>Zulu</t> </e>
+
+  <e m="3"> <o>A</o> <t>.-</t> </e>
+  <e m="3"> <o>B</o> <t>-...</t> </e>
+  <e m="3"> <o>C</o> <t>-.-.</t> </e>
+  <e m="3"> <o>D</o> <t>-..</t> </e>
+  <e m="3"> <o>E</o> <t>.</t> </e>
+  <e m="3"> <o>F</o> <t>..-.</t> </e>
+  <e m="3"> <o>G</o> <t>--.</t> </e>
+  <e m="3"> <o>H</o> <t>....</t> </e>
+  <e m="3"> <o>I</o> <t>..</t> </e>
+  <e m="3"> <o>J</o> <t>.---</t> </e>
+  <e m="3"> <o>K</o> <t>-.-</t> </e>
+  <e m="3"> <o>L</o> <t>.-..</t> </e>
+  <e m="3"> <o>M</o> <t>--</t> </e>
+  <e m="3"> <o>N</o> <t>-.</t> </e>
+  <e m="3"> <o>O</o> <t>---</t> </e>
+  <e m="3"> <o>P</o> <t>.--.</t> </e>
+  <e m="3"> <o>Q</o> <t>--.-</t> </e>
+  <e m="3"> <o>R</o> <t>.-.</t> </e>
+  <e m="3"> <o>S</o> <t>...</t> </e>
+  <e m="3"> <o>T</o> <t>-</t> </e>
+  <e m="3"> <o>U</o> <t>..-</t> </e>
+  <e m="3"> <o>V</o> <t>...-</t> </e>
+  <e m="3"> <o>W</o> <t>.--</t> </e>
+  <e m="3"> <o>X</o> <t>-..-</t> </e>
+  <e m="3"> <o>Y</o> <t>-.--</t> </e>
+  <e m="3"> <o>Z</o> <t>--..</t> </e>
+
+  <e m="4"> <o>1</o> <t>.----</t> </e>
+  <e m="4"> <o>2</o> <t>..---</t> </e>
+  <e m="4"> <o>3</o> <t>...--</t> </e>
+  <e m="4"> <o>4</o> <t>....-</t> </e>
+  <e m="4"> <o>5</o> <t>.....</t> </e>
+  <e m="4"> <o>6</o> <t>-....</t> </e>
+  <e m="4"> <o>7</o> <t>--...</t> </e>
+  <e m="4"> <o>8</o> <t>---..</t> </e>
+  <e m="4"> <o>9</o> <t>----.</t> </e>
+  <e m="4"> <o>0</o> <t>-----</t> </e>
+
+  <e m="5"> <o>.</o> <t>.-.-.-</t> </e>
+  <e m="5"> <o>,</o> <t>--..--</t> </e>
+  <e m="5"> <o>?</o> <t>..--..</t> </e>
+  <e m="5"> <o>:</o> <t>---...</t> </e>
+  <e m="5"> <o>-</o> <t>-....-</t> </e>
+
+</pvtml>
