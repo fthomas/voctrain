@@ -1,0 +1,43 @@
+
+   php_voctrain - A PHP-Gtk based vocabulary trainer
+                  written by Frank Thomas <frank@thomas-alfeld.de>
+
+   
+   Installation:
+   -------------
+   
+   Just unpack the tarball/zip somewhere on your harddrive und start
+   the php_voctrain program with
+   
+      ~$ php /path/to/voctrain/php_voctrain.php
+   
+   The PHP Gtk extension is needed to run php_voctrain. Information
+   and source code of this extension can be obtained from 
+   http://gtk.php.net (thanks to Andrei and all others for their great
+   work!)
+   You also need to configure your PHP using '--with-xml'
+
+   
+   About php_voctrain:
+   -------------------
+   
+   php_voctrain is a very simple vocabulary trainer using xml files as
+   vocabulary database, so that users can easily write their own files.
+   The programm is able to load diefferent xml files than the
+   "pvt_latein.xml" as long as it uses the same DTD. I would be very
+   pleased if you send me your self-written xml files, so that I can
+   distribute it in the original archive.
+   
+   If you are searching a more comfortable trainer you should visit
+   http://kvoctrain.sourceforge.net 
+       
+   Have fun!
+
+
+   Contributors:
+   -------------
+   BankHacker - wrote the english_espanol.xml
+   
+   Thanks for your help!
+   
+      
